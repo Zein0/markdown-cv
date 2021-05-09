@@ -16,7 +16,15 @@ _2018-2021_:Bachelor's Degree in CS ,Lebanese University (LU)
 ---
 ## Skills
 #
->
+*  Programming Languages 
+    * C 
+    * C#
+    * Java
+    * Javascript
+*  Database 
+    * MYSQL
+    * MSSQL
+* Android Studio
 
 ---
 ## Languges
